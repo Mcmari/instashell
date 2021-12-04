@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash cd instashell/ chmod 775 instashell.sh chmod 775 install.sh
 # Coded by: github.com/thelinuxchoice
 # Instagram: @thelinuxchoice
 
